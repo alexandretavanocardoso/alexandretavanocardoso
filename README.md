@@ -16,7 +16,7 @@
 
 ## Site Pessoal 👨🏽‍💻
 - https://alexandretavanocardoso.github.io
-<video align="left" width="800" height="500" src="https://www.youtube.com/watch?v=PxEvKne_rXs">
+<img align="left" width="800" height="500" src="https://www.youtube.com/watch?v=PxEvKne_rXs">
 
 <!--
 **alexandretavanocardoso/alexandretavanocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
