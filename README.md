@@ -1,4 +1,5 @@
 ### Eae Desenvolvedores 👋
+  Eu sou Alexandre Tavano Cardoso. Desenvolvedor Web, faço curso técnico em busca de experiências profissionais. Possuo conhecimentos em WordPress, html5, css3, Bootstrap, Banco de dados. Busco desenvolver sistemas webs dinâmicos e responsivos.
 
 ## Um pouco sobre mim
 - 🔭 Atualmente estou fazendo estágio na Uppercase
@@ -6,6 +7,8 @@
 - 👯 Estou procurando colaborar em Ajudas de alguns códigos prontos e Layouts prontos
 - 📫 Como chegar até mim: AlexandreTavanoDeveloper@outlook.com
 - ⚡ Curiosidade: Gosto de jogar nos meus tempos livres
+- 👨🏽‍💻 Site Pessoal: https://alexandretavanocardoso.github.io
+- 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
 
 ## Contato
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/alexandretavanocardoso)
