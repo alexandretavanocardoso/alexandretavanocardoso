@@ -9,14 +9,15 @@
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
 - 👯 Ajudas em meu Github: Códigos Prontos e Layouts responsivos
-- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Adobe XD
+- 🛠️ Ferramentas utilizadas: Visual Studio Code, Visual Studio, Adobe XD
+- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 - 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
 
 ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Counter Strike e Among Us
-- ⚽ Hobbies: Jogar Futebol
+- 🏋🏾‍♂️ Hobbies: Fazer musculação
 - 🎨 Cores Favoritas: Vermelho e Preto
 
 ### Contato 🤳🏾
