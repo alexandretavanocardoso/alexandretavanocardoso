@@ -4,7 +4,7 @@
 ### Site Pessoal 👨🏽‍💻
 - https://alexandretavanocardoso.github.io
 
-### Sobre mim
+### Sobre mim 🧑🏽
 - 💻 Experiências: Estágio na Uppercase (Atualmente)
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
@@ -13,13 +13,13 @@
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 - 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
 
-### Curiosidades
+### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Counter Strike e Among Us
 - ⚽ Hobbies: Jogar Futebol
 - 🎨 Cores Favoritas: Vermelho e Preto
 
-### Contato
+### Contato 🤳🏾
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
 
