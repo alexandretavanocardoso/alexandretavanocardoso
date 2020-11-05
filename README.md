@@ -15,7 +15,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
 
 ## Site Pessoal 👨🏽‍💻
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://alexandretavanocardoso.github.io">
 
 <!--
 **alexandretavanocardoso/alexandretavanocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
