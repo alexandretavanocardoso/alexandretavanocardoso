@@ -5,8 +5,8 @@
 ➖ https://alexandretavanocardoso.github.io
 
 ## Sobre mim
-➖ 💻 Experiências: Estágio na Uppercase (Atualmente)
-➖ 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
+- 💻 Experiências: Estágio na Uppercase (Atualmente)
+- 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
 ➖ 👯 Ajudas em meu Github: Códigos Prontos e Layouts responsivos
 ➖ 📕 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Adobe XD
 ➖ 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
