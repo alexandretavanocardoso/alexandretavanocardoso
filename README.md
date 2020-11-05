@@ -6,12 +6,13 @@
 
 ### Sobre mim
 - 💻 Experiências: Estágio na Uppercase (Atualmente)
+- 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
 - 👯 Ajudas em meu Github: Códigos Prontos e Layouts responsivos
-- 📕 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Adobe XD
+- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Adobe XD
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
-- ⚡ Curiosidade: Gosto de jogar nos meus tempos livres
 - 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
+- ⚡ Curiosidade: Gosto de jogar nos meus tempos livres, amo e odeio programar, cores favoritas: Vermelho e Preto
 
 ### Contato
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
