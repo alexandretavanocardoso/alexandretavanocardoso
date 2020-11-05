@@ -10,7 +10,7 @@
 - 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
 - 👯 Ajudas em meu Github: Códigos Prontos e Layouts responsivos
 - 🛠️ Ferramentas utilizadas: Visual Studio Code, Visual Studio, Adobe XD
-- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
+- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.NetCore, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 - 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
 
