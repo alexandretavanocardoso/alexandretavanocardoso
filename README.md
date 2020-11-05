@@ -12,7 +12,12 @@
 - 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Aspnet.Core, MVC, Banco de Dados (MySql, Sqlserver), Adobe XD
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 - 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
-- ⚡ Curiosidade: Gosto de jogar nos meus tempos livres, amo e odeio programar, cores favoritas: Vermelho e Preto
+
+### Curiosidades
+- ❤️🖥️💔 AMO e ODEIO programar 
+- 🎮 Hobbies online: Counter Strike e Among Us
+- ⚽ Hobbies: Jogar Futebol
+- 🎨 Cores Favoritas: Vermelho e Preto
 
 ### Contato
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
