@@ -12,7 +12,6 @@
 - 🛠️ Ferramentas utilizadas: Visual Studio Code, Visual Studio, Adobe XD
 - 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.NetCore, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
-- 📃 Curriculo: https://github.com/alexandretavanocardoso/Curriculo
 
 ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
