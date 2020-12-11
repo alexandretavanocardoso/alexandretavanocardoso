@@ -31,10 +31,6 @@
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
-> ### Social
-
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/alexandretavanocardoso)
-
 > ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Counter Strike e Among Us
