@@ -21,7 +21,7 @@
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
