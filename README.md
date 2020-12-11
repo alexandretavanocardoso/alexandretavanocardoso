@@ -23,8 +23,8 @@
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual_Studio_Code&logoColor=white)
-![image](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=Adobe_XD&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual_studio_code&logoColor=white)
+![image](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe_xd&logoColor=white)
 
 ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
