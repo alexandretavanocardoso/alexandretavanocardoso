@@ -13,6 +13,9 @@
 - 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.NetCore, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
+### Habilidades
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
 ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Counter Strike e Among Us
