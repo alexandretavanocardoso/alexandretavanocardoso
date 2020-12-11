@@ -1,4 +1,4 @@
-> # Eae Desenvolvedores 🖥️
+> ## Eae Desenvolvedores 🖥️
   Eu sou Alexandre Tavano Cardoso. Desenvolvedor Web, faço curso técnico em busca de experiências profissionais. Possuo conhecimentos em WordPress, html5, css3, Bootstrap, Banco de dados. Busco desenvolver sistemas webs dinâmicos e responsivos.
 
 > ### Site Pessoal 👨🏽‍💻
