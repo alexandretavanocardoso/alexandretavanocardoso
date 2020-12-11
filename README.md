@@ -1,10 +1,10 @@
-### Eae Desenvolvedores 🖥️
+> ### Eae Desenvolvedores 🖥️
   Eu sou Alexandre Tavano Cardoso. Desenvolvedor Web, faço curso técnico em busca de experiências profissionais. Possuo conhecimentos em WordPress, html5, css3, Bootstrap, Banco de dados. Busco desenvolver sistemas webs dinâmicos e responsivos.
 
-### Site Pessoal 👨🏽‍💻
+> ### Site Pessoal 👨🏽‍💻
 - https://alexandretavanocardoso.github.io
 
-### Sobre mim 🧑🏽
+> ### Sobre mim 🧑🏽
 - 💻 Experiências: Estágio na Uppercase (Atualmente)
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - Atualmente) 
@@ -13,7 +13,7 @@
 - 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.NetCore, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
-### Habilidades
+> ### Habilidades
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,13 +26,13 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-### Curiosidades 👀
+> ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Counter Strike e Among Us
 - 🏋🏾‍♂️ Hobbies: Fazer musculação
 - 🎨 Cores Favoritas: Vermelho e Preto
 
-### Contato 🤳🏾
+> ### Contato 🤳🏾
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
 
