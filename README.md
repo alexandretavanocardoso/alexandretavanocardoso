@@ -10,7 +10,7 @@
 ---
 
 > ### Sobre mim 🧑🏽
-- 💻 Experiências: Estágio na Uppercase (Atualmente)
+- 💻 Experiências: Estágio na Uppercase (2020 - Atualmente)
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020) 
 - 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
