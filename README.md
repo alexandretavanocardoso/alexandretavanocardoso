@@ -57,14 +57,15 @@
 
 ---
 
-<p align="center">
-  <img width="1200" height="350" src="https://www.techreviews.com.br/wp-content/uploads/2020/04/VZI-0-monitor-hd-davidx-rq7e1qwspey-unsplash-scaled.jpg">
-</p>
-
-
 > ### Contato  📱
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
+
+---
+
+<p align="center">
+  <img width="1200" height="350" src="https://www.techreviews.com.br/wp-content/uploads/2020/04/VZI-0-monitor-hd-davidx-rq7e1qwspey-unsplash-scaled.jpg">
+</p>
 
 <!--
 **alexandretavanocardoso/alexandretavanocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
