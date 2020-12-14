@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="1200" height="350" src="https://www.techreviews.com.br/wp-content/uploads/2020/04/VZI-0-monitor-hd-davidx-rq7e1qwspey-unsplash-scaled.jpg">
+</p>
+
+
 > ## Eae Desenvolvedores 🖥️
   Eu sou Alexandre Tavano Cardoso. Desenvolvedor Web, faço curso técnico em busca de experiências profissionais. Possuo conhecimentos em WordPress, html5, css3, Bootstrap, Banco de dados. Busco desenvolver sistemas webs dinâmicos e responsivos.
   
