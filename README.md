@@ -50,7 +50,7 @@
 
 > ### Curiosidades 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
-- 🎮 Hobbies online: Counter Strike e Among Us
+- 🎮 Hobbies online: Jogos
 - 🏋🏾‍♂️ Hobbies: Fazer musculação
 - 🎨 Cores Favoritas: Vermelho e Preto
 
