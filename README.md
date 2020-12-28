@@ -69,7 +69,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img width="300" height="350" src="https://a-static.besthdwallpaper.com/linguagem-de-programacao-java-codificacao-papel-de-parede-2048x1152-17042_49.jpg">
 </p>
 
@@ -77,10 +77,7 @@
   <img width="300" height="350" src="https://a-static.besthdwallpaper.com/linguagem-de-programacao-java-codificacao-papel-de-parede-2048x1152-17042_49.jpg">
 </p>
 
-<p align="center">
+<p align="right">
   <img width="300" height="350" src="https://a-static.besthdwallpaper.com/linguagem-de-programacao-java-codificacao-papel-de-parede-2048x1152-17042_49.jpg">
 </p>
 
-<p align="center">
-  <img width="300" height="350" src="https://a-static.besthdwallpaper.com/linguagem-de-programacao-java-codificacao-papel-de-parede-2048x1152-17042_49.jpg">
-</p>
