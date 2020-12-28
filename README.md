@@ -10,7 +10,7 @@
 ---
 
 > ### Experiências Profissionais
-- UPPERCASE Consultoria (Estágio) - 2020 - Atualmente
+- UPPERCASE Consultoria (Meses de Experiência) - 2020 - Atualmente
 
 ---
 
