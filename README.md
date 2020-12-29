@@ -1,6 +1,6 @@
 
 > ## Eae Desenvolvedores 🖥️
-  Eu sou Alexandre Tavano Cardoso. Junior Developer, ja fiz e faço varios cursos em plataformas online, possuo breve conhecimentos em WordPress. Porém estou estudando linguagens e usando frameworks mais universais como html5, css3, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), C#. Sempre busco cada vez mais aprimorar meus conhecimentos e habilidades para um dia se tornar um programadoe full stack.
+  Eu sou Alexandre Tavano Cardoso, atualmente sou "Desenvolver de sistemas junior", estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo breve conhecimentos em WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
   
 ---
 
