@@ -69,6 +69,3 @@
 
 ---
 
-<p align="center">
-  <img width="1200" height="350" src="https://i.pinimg.com/originals/47/c9/5d/47c95d58525bd4e73efc87d93e82e8c7.jpg">
-</p>
