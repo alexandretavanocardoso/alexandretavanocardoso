@@ -1,20 +1,20 @@
 
-> ## **Eae Desenvolvedores** 🖥️
+### **Eae Desenvolvedores** 🖥️
   Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo breves conhecimentos em WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
   
 ---
 
-> ### **Site Pessoal** 👨🏽‍💻
+### **Site Pessoal** 👨🏽‍💻
 - https://alexandretavanocardoso.github.io
 
 ---
 
-> ### **Experiências Profissionais**
+### **Experiências Profissionais**
 - UPPERCASE Consultoria (Meses de Experiência) - 2020 - Atualmente
 
 ---
 
-> ### **Sobre mim** 🧑🏽
+### **Sobre mim** 🧑🏽
 - 💻 Experiências: Estágio na Uppercase (2020 - Atualmente)
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020) 
@@ -25,7 +25,7 @@
 
 ---
 
-> ### **Habilidades** 🚀
+### **Habilidades** 🚀
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,21 +41,21 @@
 
 ---
 
-> ### **Grupos** 🤜🤛
+### **Grupos** 🤜🤛
 
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 ---
 
-> ### **Jogos** 🎮
+### **Jogos** 🎮
 
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 ---
 
-> ### **Curiosidades** 👀
+### **Curiosidades** 👀
 - ❤️🖥️💔 AMO e ODEIO programar 
 - 🎮 Hobbies online: Jogos
 - 🏋🏾‍♂️ Hobbies: Fazer musculação
@@ -63,7 +63,7 @@
 
 ---
 
-> ### **Contato**  📱
+### **Contato**  📱
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
 
