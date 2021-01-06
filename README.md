@@ -70,6 +70,9 @@
 ---
 
 Github: https://github.com/alexandretavanocardoso
+
 Linkedin: https://www.linkedin.com/in/alexandre-tavano-51a2081bb/
+
 Portfólio: https://alexandretavanocardoso.github.io
+
 Discord: tavano#7498
