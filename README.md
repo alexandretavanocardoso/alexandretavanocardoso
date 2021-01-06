@@ -15,12 +15,11 @@
 ---
 
 ### **Sobre mim** 🧑🏽
-- 💻 Experiências: Estágio na Uppercase (2020 - Atualmente)
 - 📗 Estudos Online: Udemy
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020) 
 - 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
 - 🛠️ Ferramentas utilizadas: Visual Studio Code, Visual Studio, Microsoft SQL Server, Adobe XD
-- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.NetCore, MVC, Banco de Dados (MySql, Sqlserver), Protótipos
+- 📘 Conhecimentos, aprendendo: HTML, CSS, JavaScript, Asp.Net, Banco de Dados (Sqlserver), Protótipos
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
 ---
