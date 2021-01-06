@@ -9,7 +9,7 @@
 
 ---
 
-### **Experiências Profissionais** 👨🏽‍💻
+### **Experiências Profissionais** 📉
 - UPPERCASE Consultoria (Meses de Experiência) - 2020 - Atualmente
 
 ---
