@@ -15,7 +15,7 @@
 ---
 
 ### **Sobre mim** 🧑🏽
-- 📗 Estudos Online: Udemy
+- 📗 Estudos Online: Udemy, HCode
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020) 
 - 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
 - 🛠️ Ferramentas utilizadas: Visual Studio Code, Visual Studio, Microsoft SQL Server, Adobe XD
