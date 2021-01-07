@@ -27,6 +27,7 @@
 ### **Ferramentas Utilizadas** ⚒️
 ![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 ---
 
 ### **Habilidades em Treinamentos** 🚀
