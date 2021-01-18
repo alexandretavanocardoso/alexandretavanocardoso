@@ -1,6 +1,6 @@
 
 ### **Eae Desenvolvedores** 🖥️
-  Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo breves conhecimentos em Angular, HTML, CSS, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
+  Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo breves conhecimentos em Angular, HTML, CSS, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer). Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
   
 ---
 
