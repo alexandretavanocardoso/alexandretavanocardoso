@@ -26,6 +26,7 @@
 ### **Ferramentas Utilizadas** ⚒️
 ![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
@@ -57,14 +58,6 @@
 
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-
----
-
-### **Curiosidades** 👀
-- ❤️🖥️💔 AMO e ODEIO programar 
-- 🎮 Hobbies online: Jogos
-- 🏋🏾‍♂️ Hobbies: Fazer musculação
-- 🎨 Cores Favoritas: Vermelho e Preto
 
 ---
 
