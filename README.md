@@ -77,5 +77,5 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alexandretavanocardoso&show_icons=true&hide_title=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretavanocardoso&layout=compact&theme=nord&hide=Assembly,Scilab)
+![github stats](https://github-readme-stats.vercel.app/api?username=alexandretavanocardoso&show_icons=true&hide_title=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretavanocardoso&layout=compact&theme=dark&hide=Assembly,Scilab)
