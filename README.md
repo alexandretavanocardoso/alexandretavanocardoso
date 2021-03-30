@@ -17,7 +17,7 @@
 ### **Sobre mim** 🧑🏽
 - 📗 Estudos Online: Udemy, HCode, Cod3r, Youtube, Devmedia
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - Cursando)
-- 🎓 Faculdade: FGP Faculdade (Começando a Cursar) 
+- 🎓 Faculdade: FGP Faculdade, 2021 - Atualmente
 - 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
