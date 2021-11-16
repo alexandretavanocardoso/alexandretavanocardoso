@@ -1,5 +1,5 @@
 
-### **Eae Desenvolvedores** 🖥️
+### **Sobre Mim** 👨
   Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo conhecimentos em HTML, CSS, Figma, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), Swagger API, C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
   
 ---
