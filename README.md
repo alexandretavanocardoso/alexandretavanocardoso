@@ -1,7 +1,13 @@
 
-### **Sobre Mim** 👨
+### **Sobre Mim** 🧑
   Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo conhecimentos em HTML, CSS, Figma, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), Swagger API, C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
-  
+
+- 📗 Estudos Online: Udemy, HCode, Cod3r, Youtube, Devmedia
+- 📕 Estudos: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
+- 🎓 Faculdade: FGP Faculdade, 2021 - Atualmente
+- 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
+- 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
+
 ---
 
 ### **Site Pessoal** 👨🏽‍💻
@@ -11,15 +17,6 @@
 
 ### **Experiências Profissionais** 📉
 - UPPERCASE Consultoria - 2020 - Atualmente
-
----
-
-### **Sobre mim** 🧑🏽
-- 📗 Estudos Online: Udemy, HCode, Cod3r, Youtube, Devmedia
-- 📕 Estudos: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
-- 🎓 Faculdade: FGP Faculdade, 2021 - Atualmente
-- 👯 Ajudas em meu Github: Documentações, códigos, projetos, layouts.
-- 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
 ---
 
