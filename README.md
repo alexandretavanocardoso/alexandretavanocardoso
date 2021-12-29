@@ -4,7 +4,7 @@
 
 - 📗 Online Studies: Udemy, HCode, Cod3r, Youtube, Devmedia
 - 📕 Studies: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
-- 🎓 University: FGP Faculdade, 2021 - Currently
+- 🎓 University: FGP, 2021 - Currently
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
 
 ---
