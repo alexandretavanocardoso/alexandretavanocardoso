@@ -1,6 +1,6 @@
 
-### **Sobre Mim** 🧑
-  Eu sou Alexandre Tavano Cardoso, atualmente sou **Desenvolvedor de sistemas júnior**, estou na caminhada para aprimorar conhecimentos realizando cursos em plataformas online, possuo conhecimentos em HTML, CSS, Figma, JavaScript, jQuery, Bootstrap, Banco de dados (SQLServer), Swagger API, C#. Estou sempre buscando acompanhar as tecnologias e estar atualizado com as ferramentas utilizadas no mercado de trabalho.
+### **About me** 🧑
+  I'm Alexandre Tavano Cardoso, currently I work as System developer and I'm improving my knowledge doing online courses. I have knowledge in HTML, CSS, Figma, JavaScript, jQuery, Bootstrap, database (SQLServer), Swagger API, C#.
 
 - 📗 Estudos Online: Udemy, HCode, Cod3r, Youtube, Devmedia
 - 📕 Estudos: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
