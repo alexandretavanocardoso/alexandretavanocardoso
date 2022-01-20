@@ -1,6 +1,6 @@
 
 ### **About me** 🧑
-  I'm Alexandre Tavano Cardoso, currently I work as System developer and I'm improving my knowledge doing online courses. I have knowledge in HTML, CSS, Figma, JavaScript, jQuery, Bootstrap, database (SQLServer), Swagger API, C#.
+I'm Alexandre Tavano Cardoso, currently I work as fullstack developer. I have knowledge in Angular, Figma, JavaScript, jQuery, Banco de dados (SQLServer), Rest API, ASP.NET Core.
 
 - 📗 Online Studies: Udemy, HCode, Cod3r, Youtube, Devmedia
 - 📕 Studies: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
