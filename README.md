@@ -37,4 +37,4 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 ---
 
 ### **Contact**  📱
-<a href="https://www.linkedin.com/in/alexandretavano/" target="_blank"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a target="_blank" href="https://www.linkedin.com/in/alexandretavano/"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
