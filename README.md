@@ -38,3 +38,7 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 
 ### **Contact**  📱
 <a target="_blank" href="https://www.linkedin.com/in/alexandretavano/"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+
+---
+
+![Snake animation](https://github.com/alexandretavanocardoso/alexandretavanocardoso/blob/output/github-contribution-grid-snake.svg)
