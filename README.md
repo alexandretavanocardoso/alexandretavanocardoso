@@ -15,7 +15,6 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 - 👨🏾‍💻 Personal website: https://alexandretavanocardoso.github.io
 - ⌨️ Professionals Experiences: UPPERCASE Consultoria - 2020 - Currently
 
----
 
 ### **Tools Used** ⚒️
 <div style="display: inline_block"><br>
@@ -23,7 +22,6 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 <img align="center" alt="Alexandre-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
----
 
 ### **Skills** 🚀
 <div style="display: inline_block"><br>
@@ -34,11 +32,9 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 <img align="center" alt="Alexandre-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 </div>
 
----
 
 ### **Contact**  📱
 <a target="_blank" href="https://www.linkedin.com/in/alexandretavano/"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
----
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
