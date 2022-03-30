@@ -1,4 +1,10 @@
 
+<div align="center">
+  <a href="https://github.com/alexandretavanocardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandretavanocardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretavanocardoso&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ### **About me** 🧑
 I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have knowledge in SQL Server, Rest API, ASP.NET Core, C# and GIT.
 
@@ -35,31 +41,12 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 
 ---
 
-### **Groups** 🤜🤛
-
-![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-
----
-
 ### **Contact**  📱
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
 
 ---
 
-**Github:** https://github.com/alexandretavanocardoso
-
-**Linkedin:** https://www.linkedin.com/in/alexandre-tavano-51a2081bb/
-
 **Portfolio:** https://alexandretavanocardoso.github.io
 
 **Discord:** tavano#7498
-
----
-
-![](https://visitor-badge.glitch.me/badge?page_id=alexandretavanocardoso.alexandretavanocardoso)
-
----
-![github stats](https://github-readme-stats.vercel.app/api?username=alexandretavanocardoso&show_icons=true&hide_title=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretavanocardoso&layout=compact&theme=nord&hide=Assembly,Scilab)
