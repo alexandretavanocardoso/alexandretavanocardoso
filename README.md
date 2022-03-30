@@ -41,4 +41,4 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 
 ---
 
-![Snake animation](https://github.com/alexandretavanocardoso/alexandretavanocardoso/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alexandretavanocardoso/alexandretavanocardoso/blob/output/github-contribution-grid-snake.gif)
