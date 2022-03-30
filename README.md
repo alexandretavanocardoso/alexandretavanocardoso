@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/alexandretavanocardoso">
+  <a href="https://github.com/alexandretavanocardoso"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandretavanocardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretavanocardoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -12,41 +12,29 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 - 📕 Studies: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
 - 🎓 University: FGP, 2021 - Currently
 - 📫 E-mail: AlexandreTavanoDeveloper@outlook.com
-
----
-
-### **Personal Website** 👨🏽‍💻
-- https://alexandretavanocardoso.github.io
-
----
-
-### **Professionals Experiences** 📉
-- UPPERCASE Consultoria - 2020 - Currently
+- 👨🏾‍💻 Personal website: https://alexandretavanocardoso.github.io
+- ⌨️ Professionals Experiences: UPPERCASE Consultoria - 2020 - Currently
 
 ---
 
 ### **Tools Used** ⚒️
-![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<div style="display: inline_block"><br>
+<img align="center" alt="Alexandre-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Alexandre-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+</div>
 
 ---
 
 ### **Skills** 🚀
-![imagem](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![imagem](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+<div style="display: inline_block"><br>
+<img align="center" alt="Alexandre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Alexandre-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<img align="center" alt="Alexandre-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Alexandre-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+<img align="center" alt="Alexandre-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+</div>
 
 ---
 
 ### **Contact**  📱
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandretavanocardoso)](https://github.com/alexandretavanocardoso)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)](https://www.linkedin.com/in/alexandre-tavano-51a2081bb/)
-
----
-
-**Portfolio:** https://alexandretavanocardoso.github.io
-
-**Discord:** tavano#7498
+<a href="https://www.linkedin.com/in/alexandretavano/" target="_blank"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
