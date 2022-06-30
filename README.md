@@ -6,7 +6,7 @@
 </div>
 
 ### **About me** 🧑
-I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have knowledge in SQL Server, Rest API, ASP.NET Core, C# and GIT.
+I'm Alexandre Tavano Cardoso, currently I work as fullstack developer.
 
 - 📗 Online Studies: Udemy, HCode, Cod3r, Youtube, Devmedia
 - 📕 Studies: Etec Comendador João Rays (2019 - 2020), Future Developers (2020 - 2021)
@@ -20,18 +20,30 @@ I'm Alexandre Tavano Cardoso, currently I work as backend developer. I have know
 <div style="display: inline_block"><br>
 <img align="center" alt="Alexandre-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 <img align="center" alt="Alexandre-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+<img align="center" alt="Alexandre-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 
-### **Skills** 🚀
+### **Skills backend** 🚀
 <div style="display: inline_block"><br>
 <img align="center" alt="Alexandre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Alexandre-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-<img align="center" alt="Alexandre-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="Alexandre-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-<img align="center" alt="Alexandre-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 </div>
 
+### **Skills frontend** 🚀
+<div style="display: inline_block"><br>
+<img align="center" alt="Alexandre-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img align="center" alt="Alexandre-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img align="center" alt="Alexandre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Alexandre-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
+<img align="center" alt="Alexandre-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+</div>
+
+### **Skills to versioning** 🚀
+<div style="display: inline_block"><br>
+<img align="center" alt="Alexandre-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Alexandre-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</div>
 
 ### **Contact**  📱
 <a target="_blank" href="https://www.linkedin.com/in/alexandretavano/"><img align="center" alt="Alexandre-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
